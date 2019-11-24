@@ -1,3 +1,3 @@
-#Factory Design Pattern
+# Factory Design Pattern
 
 ![uml](./uml.png)
